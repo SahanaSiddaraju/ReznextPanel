@@ -13,6 +13,7 @@ public class ReznextPanel {
 		String baseUrl = "http://redapptest.azurewebsites.net";
 		//
 		driver.get(baseUrl);
+		System.out.println("hello world");
 	}
 
 }
